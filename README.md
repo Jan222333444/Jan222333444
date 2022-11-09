@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan
-- 👀 I’m interested in Mc Plugin programming
+- 👀 I’m interested in programming web services, REST-APIs and computer science in general
 - 🌱 I’m currently studying applied computer science at University of Bamberg
 
 <!---
