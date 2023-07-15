@@ -2,7 +2,6 @@
 👋 Hi, I’m Jan<br>
  👀 I’m interested in programming web services, REST-APIs and computer science in general<br>
 🌱 I’m currently studying applied computer science at the University of Bamberg<br>
-🔭 I’m currently working on Node.js REST-APIs<br>🌱 I’m currently learning Angular <br>
 
 
 
